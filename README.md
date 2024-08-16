@@ -1,14 +1,11 @@
 # BIAS-2015-data
 Datasets used by BIAS-2015
 
-preprocessing_data
-    All datasets used and all intermediate files generated during preprocessing
+preprocessing_data - All datasets used and all intermediate files generated during preprocessing
 
-    bias_2015_required_files
-        The preprocessing files that are required to run BIAS-2015, the results from preprocessing
+preprocessing_data/bias_2015_required_files - The preprocessing files that are required to run BIAS-2015, the results from preprocessing
 
-validation_data
-    All datasets used and generated during validation
+validation_data - All datasets used and generated during validation
 
 ## Cloning This Repository
 
