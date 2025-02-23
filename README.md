@@ -1,6 +1,10 @@
 # BIAS-2015-data
 Datasets used by BIAS-2015
 
+DEPRECATED: This repository is deprecated, please access all BIAS-2015 data files and supplementary files through our AWS bucket here
+
+s3://bias-2015
+
 preprocessing_data - All datasets used and all intermediate files generated during preprocessing
 
 preprocessing_data/bias_2015_required_files - The preprocessing files that are required to run BIAS-2015, the results from preprocessing
